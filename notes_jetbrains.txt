@@ -1,0 +1,12 @@
+this is a Go project in Intellij Idea
+line 2!!!
+line3 !!!!
+line 444
+line 555
+line 666
+line 777
+ilne 888
+line 999
+
+line aaa
+line bbb
